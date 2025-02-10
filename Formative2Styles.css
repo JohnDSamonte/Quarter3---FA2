@@ -1,0 +1,29 @@
+h1 {
+  background-color: #8FD8D8;
+  color: #004953;
+  border: double blue;
+  
+}
+body {
+  font-family: Arial, sans-serif;
+  background-color: #0D98BA; /* Light cyan background */
+  color: #004d40; /* Dark green text */
+  margin: 2.5%;
+  padding: 2.5%;
+  box-shadow: 0 5px 15px;
+  rgba(0, 0, 0, 0.1);
+}
+button, input {
+  color: #004953;
+  background-color: #8FD8D8;
+  text-color: black;
+  
+}
+h6 {
+      font-size: 5px;    
+}
+p {
+  color: #004953;
+  background-color: #8FD8D8;
+  border: double blue;
+}
